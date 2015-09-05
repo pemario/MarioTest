@@ -7,3 +7,4 @@ Git tracks changes of files.
 Creating a new branch is quick.
 New branch.
 creating a new in master
+Switch to a new branch 'feature1'
